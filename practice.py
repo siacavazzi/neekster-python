@@ -25,7 +25,7 @@ print("----- Exercise 4 -----")
 city_visits = {"new york":55,"london":2,"tokyo":0,"lisbon":1}
 
 
-# Exercise 5. Print out the city from `city_visits` I have visited the most. You must determine this programatically. 
+# Exercise 5. Print out the city from `city_visits` I have visited the most. You must determine this programatically. This one is hard.
 print("----- Exercise 5 -----")
 
 
