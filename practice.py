@@ -31,3 +31,5 @@ print("----- Exercise 5 -----")
 
 # Exercise 6. Pretty printing with f strings. Use f string notation to print out: "I live in Willy B, New York". You must use the provided variables.
 print("----- Exercise 6 -----")
+city = "New York"
+where_i_live = "Willy B"
